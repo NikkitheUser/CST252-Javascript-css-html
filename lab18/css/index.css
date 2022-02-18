@@ -1,0 +1,61 @@
+div.sam{
+	color:darkblue;
+}
+span{
+	text-decoration: underline;
+    color:purple;
+}
+
+div#content{
+background-color: lightblue;
+	border-radius:5px;
+	border:5px darkblue;
+	border-style: dashed;
+	border-width: 3px
+	border:double;
+    margin: 20px 20px 20px 20px;
+    padding:100px 75px 75px 100px;
+}   
+h1, h2, h3, h4,.callout{
+    color:#b300b3;
+    text-decoration:underline;
+   font-family: 'Mansalva', cursive;
+   word-spacing: 5px
+
+}
+
+p{
+    font-family: 'Schoolbell', cursive;
+        font-size: 120%;
+        color:darkblue;
+        word-spacing: 1px;
+        letter-spacing: 2px
+}
+ul{  font-family: 'Schoolbell', cursive;
+        font-size: 120%;
+        color:darkblue;
+        word-spacing: 1px;
+        letter-spacing: 2px
+	
+}
+.oops{
+
+    font-family: 'Schoolbell', cursive;
+        font-size: 150%;
+        color:black;
+        word-spacing: 1px;
+        letter-spacing: 2px
+}
+.nav{
+     background-color:lightblue;
+     color: purple;
+}
+#navbar {
+    color:purple;
+}
+.container-fluid{
+    background-color: lightblue;
+}
+a{
+    color: purple;
+}

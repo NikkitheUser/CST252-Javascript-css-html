@@ -1,0 +1,22 @@
+<CSS>
+h1{
+	color: darkblue ;
+	font-size: 210%;
+	
+}
+p{
+	color:lightblue;
+	text-indent: 30px;
+	margin-left: 12px;
+}
+body{
+	background-color: hsla(260, 61%, 36%, 0.5); 
+}
+#content{
+	background-color: hsla(260, 52%, 16%, 0.5);
+	width:600px;
+	min-height:300px;
+	padding:10px;
+	margin:10px;
+	border: dotted 5px white;
+}
